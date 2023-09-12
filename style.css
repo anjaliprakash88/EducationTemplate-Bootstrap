@@ -1,0 +1,15 @@
+.main
+{
+    background-color: rgb(3, 3, 97);
+    color: white;
+    padding: 100px;
+}
+/* CSS in an external file or in a <style> tag in your HTML */
+.background-image {
+    background-image: url('images/image1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
